@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Home from './pages/Home'
-import Transaksi from './pages/Transaksi'
-import Profil from './pages/Profil'
-import Login from './pages/Login'
+import Home from './Pages/Home'
+import Transaksi from './Pages/Transaksi'
+import Profil from './Pages/Profil'
+import Login from './Pages/Login'
 import './App.css'
 
 function App() {
