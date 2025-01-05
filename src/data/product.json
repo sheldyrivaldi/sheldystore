@@ -1,0 +1,107 @@
+productsData = [
+    {
+        "id": 1,
+        "name": "apel",
+        "image": "apel.jpg",
+        "berat": "200g",
+        "harga": 10000
+    },
+    {
+        "id": 2,
+        "name": "jambu",
+        "image": "jambu.jpg",
+        "berat": "250g",
+        "harga": 12000
+    },
+    {
+        "id": 3,
+        "name": "jeruk",
+        "image": "jeruk.jpg",
+        "berat": "300g",
+        "harga": 15000
+    },
+    {
+        "id": 4,
+        "name": "pisang",
+        "image": "pisang.jpg",
+        "berat": "500g",
+        "harga": 20000
+    },
+    {
+        "id": 5,
+        "name": "kiwi",
+        "image": "kiwi.jpg",
+        "berat": "150g",
+        "harga": 18000
+    },
+    {
+        "id": 6,
+        "name": "anggur",
+        "image": "anggur.jpg",
+        "berat": "400g",
+        "harga": 25000
+    },
+    {
+        "id": 7,
+        "name": "tomat",
+        "image": "tomat.jpg",
+        "berat": "300g",
+        "harga": 8000
+    },
+    {
+        "id": 8,
+        "name": "bawang putih",
+        "image": "bawang_putih.jpg",
+        "berat": "100g",
+        "harga": 5000
+    },
+    {
+        "id": 9,
+        "name": "paprika hijau",
+        "image": "paprika_hijau.jpg",
+        "berat": "200g",
+        "harga": 12000
+    },
+    {
+        "id": 10,
+        "name": "kentang",
+        "image": "kentang.jpg",
+        "berat": "500g",
+        "harga": 10000
+    },
+    {
+        "id": 11,
+        "name": "timun",
+        "image": "timun.jpg",
+        "berat": "300g",
+        "harga": 7000
+    },
+    {
+        "id": 12,
+        "name": "buah naga",
+        "image": "buah_naga.jpg",
+        "berat": "600g",
+        "harga": 30000
+    },
+    {
+        "id": 13,
+        "name": "pomegranate",
+        "image": "pomegranate.jpg",
+        "berat": "400g",
+        "harga": 35000
+    },
+    {
+        "id": 14,
+        "name": "lobak",
+        "image": "lobak.jpg",
+        "berat": "300g",
+        "harga": 9000
+    },
+    {
+        "id": 15,
+        "name": "terong",
+        "image": "terong.jpg",
+        "berat": "400g",
+        "harga": 11000
+    }
+]
