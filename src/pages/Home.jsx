@@ -8,7 +8,7 @@ const Home = () => {
         {
             "id": 1,
             "name": "Apel Hijau",
-            "image": "https://down-id.img.susercontent.com/file/679ad6aa18bc7d37278ddd4001d1b658.webp",
+            "image": "https://egreensapp.s3.ap-south-1.amazonaws.com/LIVE/product/PRO216/1733989219661_TS7Si.webp",
             "weight": "200g",
             "price": 10000
         },
