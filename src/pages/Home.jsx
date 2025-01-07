@@ -11,7 +11,7 @@ const Home = () => {
             "image": "https://egreensapp.s3.ap-south-1.amazonaws.com/LIVE/product/PRO216/1733989219661_TS7Si.webp",
             "weight": "200g",
             "price": 10000
-        },
+        }, 
         {
             "id": 2,
             "name": "Jambu",
@@ -172,6 +172,6 @@ const Home = () => {
             <Footer />
         </>
     )
-}
+} 
 
 export default Home
